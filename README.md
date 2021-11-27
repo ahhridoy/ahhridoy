@@ -1,5 +1,5 @@
 # AH HRIDOY 
-## Mern Stack Developer 
+### Mern Stack Developer 
 ![Mern Stack Developer](https://pbs.twimg.com/profile_banners/903084116580511744/1638019156/1500x500)
 
 Hello! I'm Al Helal Hridoy, a passionate Mern Stack Developer. I develop web applications & mobile applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. I am a student of Computer Technology in Chapainawabganj Polytechnic Institute. I am available for any kind of job opportunity that suits my interests.
