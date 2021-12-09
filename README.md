@@ -1,4 +1,4 @@
-![Mern Stack Developer](https://pbs.twimg.com/profile_banners/903084116580511744/1639076933/600x200)
+![Mern Stack Developer](https://pbs.twimg.com/profile_banners/903084116580511744/1639076933/1500x500)
 # AL HELAL HRIDOY 
 ### Front-End Developer 
 
