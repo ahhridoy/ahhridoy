@@ -1,8 +1,8 @@
 ![Mern Stack Developer](https://pbs.twimg.com/profile_banners/903084116580511744/1638019156/1500x500)
 # AL HELAL HRIDOY 
-### MERN Stack Developer 
+### Front-End Developer 
 
-Hello! I'm Al Helal Hridoy, a passionate MERN Stack Developer. I develop web applications & mobile applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. I am a student of Computer Technology in Chapainawabganj Polytechnic Institute. I am available for any kind of job opportunity that suits my interests.
+Hello! I'm Al Helal Hridoy, a passionate Front-End Developer. I develop web applications & mobile applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. I am a student of Computer Technology in Chapainawabganj Polytechnic Institute. I am available for any kind of job opportunity that suits my interests.
 
 Skills: REACT JS | JAVASCRIPT | EXPRESS JS | NODE JS | MONGODB
 
