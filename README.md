@@ -2,7 +2,7 @@
 # AL HELAL HRIDOY 
 ### Front-End Developer 
 
-Hello! I'm Al Helal Hridoy, a passionate Front-End Developer. I develop web applications & mobile applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. I am a student of Computer Technology in Chapainawabganj Polytechnic Institute. I am available for any kind of job opportunity that suits my interests.
+Hello! I'm Al Helal Hridoy, a passionate Front-End Developer. I develop web applications. My core skill is based on JavaScript and React Js. I love to do most of the things using JavaScript. I love to make the web more open to the world. I have diploma in Computer Technology in Chapainawabganj Polytechnic Institute. I am available for any kind of job opportunity that suits my skills.
 
 Skills: REACT JS | JAVASCRIPT | EXPRESS JS | NODE JS | MONGODB
 
