@@ -1,4 +1,3 @@
-![Mern Stack Developer](https://pbs.twimg.com/profile_banners/903084116580511744/1639076933/1500x500)
 # MD. AL HELAL HRIDOY
 ### Web Application Developer || MERN Stack Developer at Fiverr || Content Creator at YouTube
 
