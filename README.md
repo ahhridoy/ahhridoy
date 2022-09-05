@@ -1,12 +1,12 @@
 # MD. AL HELAL HRIDOY
-### Web Application Developer || MERN Stack Developer at Fiverr || Content Creator at YouTube
+### Full-Stack Developer
 
-Hello! I'm Al Helal Hridoy, a professional Web Application Developer. I can build websites, web applications, and also I can fix bugs. I have worked in the following technologies: Frontend (React Js - Redux - Sass), Backend (Node Js - Express Js), Database (MongoDB). My core skill is based on JavaScript. Just to inform you, JavaScript is my love. My aim is to provide quality, reliability, and agility to my clients. My Skills are not limited to technology. I am always curious to work in any new technology or work offered by clients. I have diploma in Computer Technology in Chapainawabganj Polytechnic Institute. I am available for any kind of job opportunity that suits my skills.
+Hello! I'm Al Helal Hridoy, Full-stack developer at Leviito, Inc. I build websites, web applications, smart contracts. I have a Diploma in Computer Science and Technology. I have worked in the following technologies: Frontend (ReactJs - NextJs - Redux - Sass - TailwindCSS), Backend (Node Js - Express Js), Database (MongoDB - MySQL). I am available for any kind of job opportunity that suits my skills. 
 
-Skills: REACT JS | REDUX | JAVASCRIPT | EXPRESS JS | NODE JS | MONGODB
+Skills: REACT JS | NEXT JS | TAILWIND CSS | NODE JS | WEB3 | SOLIDITY
 
-- 🔭 I’m currently working on as a Web Developer
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on as a Full-stack Developer at Leviito, Inc.
+- 🌱 I’m currently learning Blockchai Technology
 - 💬 Ask me about web development
 
 
