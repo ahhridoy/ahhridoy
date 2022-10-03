@@ -3,7 +3,7 @@
 
 Hello! I'm Al Helal Hridoy, Full-stack developer at Leviito, Inc. I build websites, web applications. I have a Diploma in Computer Science and Technology. I have worked in the following technologies: Frontend (ReactJs - NextJs - Redux - Sass - TailwindCSS), Backend (Node Js - Express Js), Database (MongoDB - MySQL). I am available for any kind of job opportunity that suits my skills. 
 
-Skills: REACT JS | NEXT JS | SASS | TAILWIND CSS | REDUX | NODE JS
+Skills: REACT JS | NEXT JS | REDUX | SASS | TAILWIND CSS | NODE JS
 
 - 🔭 I’m currently working on as a Full-stack Developer at Leviito, Inc.
 - 🌱 I’m currently learning Blockchain Technology
